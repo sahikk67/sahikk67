@@ -23,11 +23,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img align="left" height="150" src="https://files.catbox.moe/pwrv6j.jfif"  />
-
 ###
 
 <div align="left">
@@ -87,8 +82,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/sahikk67/sahikk67/output/snake.svg" alt="Snake animation" />
 
 ###
 
