@@ -1,10 +1,11 @@
 ### 
 
-## Hi there 👋, I'm sahikk67 🐱‍👤
+## Hi there 👋, I'm sahikkkk <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 ---
 
 - Crypto Developer & Programmer  
-- Building tools, writing scripts, breaking things (ethically… mostly 😭)  
+- Building tools, writing scripts, breaking things, Writing Malwares and Offensive Tools (ethically… mostly 😭)  
 - Interested in automation, exploits, OSINT, and security research  
 - Blog coming soon 🔥
 
@@ -17,7 +18,5 @@
 
 ### Reach out To me:
 
-<a href="https://www.linkedin.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" /></a>
-<a href="https://www.twitter.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="32" /></a>
 <a href="https://www.instagram.com/ixe.67_/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" /></a>
 <a href="mailto:indomoro94@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" /></a>
