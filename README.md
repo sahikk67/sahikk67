@@ -14,7 +14,7 @@
 
 ### 
 
-## Hi there 👋, I'm sahikkkk <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+## Hi there 👋, I'm sahikkkk <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgzNnk2ZWhxczVvMzhkYXEyYzcwMnNiMnIybHpnend5NDExc3FrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cx88meO3mce6RV2mp7/giphy.gif" width="100"></h2>
 
 ---
 
